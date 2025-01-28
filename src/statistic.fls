@@ -1,8 +1,8 @@
-PWD c:/studymipt/3sem/Лабы/Statistics_for_labs/statistic_project
+PWD c:/studymipt/portfolio_projects/Statistical-methods-research/src
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/studymipt/3sem/Лабы/Statistics_for_labs/statistic_project/statistic.tex
+INPUT c:/studymipt/portfolio_projects/Statistical-methods-research/src/statistic.tex
 OUTPUT statistic.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls

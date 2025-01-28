@@ -12,7 +12,7 @@
 
 ## Файлы в репозитории
 
-- [report.pdf](.src/statistic.pdf) – основной документ с полным описанием исследования.
+- [report.pdf](https://github.com/stive-shipilov/Statistical-methods-research/blob/main/src/statistic.pdf) – основной документ с полным описанием исследования.
 
 ## Используемый код
 Для обрабтки данных в ходе исследования была написана библиотека для работы с данными полученным в ходе эксперимента. Более детальную информацию о библиотеке можно узнать в моём проекте [ML и статистика для обработки физического эксперимента](https://github.com/stive-shipilov/ML-and-statistic-for-phisic-experiment)

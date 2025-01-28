@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738088319.84328 "c:/studymipt/3sem/Лабы/Statistics_for_labs/statistic_project/statistic.tex" "statistic.pdf" "statistic" 1738088327.82442 0
+["pdflatex"] 1738090288.21511 "c:/studymipt/portfolio_projects/Statistical-methods-research/src/statistic.tex" "statistic.pdf" "statistic" 1738090297.18416 0
   "c:/Users/stive/.texlive2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1729944824 3308 eee81981029f67083258db36df06e523 ""
   "c:/Users/stive/.texlive2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1729944849 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/stive/.texlive2024/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1729968844 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
@@ -11,7 +11,7 @@
   "c:/Users/stive/.texlive2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1729944800 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "c:/Users/stive/.texlive2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1729944816 3252 3140686608bdcae603a09a7973fb9e55 ""
   "c:/Users/stive/.texlive2024/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1729944812 3264 c29ba0a7d68c56f5a738fbe91d6d9e9d ""
-  "c:/studymipt/3sem/Лабы/Statistics_for_labs/statistic_project/statistic.tex" 1738088308 38990 c52ff8bca73d01587bbd682cfdbd0a83 ""
+  "c:/studymipt/portfolio_projects/Statistical-methods-research/src/statistic.tex" 1738088308 38990 c52ff8bca73d01587bbd682cfdbd0a83 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1729844556 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1729844556 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1729850146 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -274,10 +274,10 @@
   "gist_second.jpg" 1738088176 64845 b1c09f5c7649f93c1475894845a99dc2 ""
   "gist_uncorrect.pdf" 1730832010 13132 727486e89426260e04e60d5a8ffcddf2 ""
   "linear_regression.pdf" 1730728485 14473 b88e1161aa14369af2765212ea896eca ""
-  "statistic.aux" 1738088326 6049 041905a5c8c9990d0f9cd842fa4361ac "pdflatex"
-  "statistic.out" 1738088326 6075 78a5597f83a2b98702c6be61ba2a6261 "pdflatex"
+  "statistic.aux" 1738090295 6049 041905a5c8c9990d0f9cd842fa4361ac "pdflatex"
+  "statistic.out" 1738090295 6075 78a5597f83a2b98702c6be61ba2a6261 "pdflatex"
   "statistic.tex" 1738088308 38990 c52ff8bca73d01587bbd682cfdbd0a83 ""
-  "statistic.toc" 1738088326 2480 3c309c8c21e7226003d05bf8d0d94cbb "pdflatex"
+  "statistic.toc" 1738090295 2480 3c309c8c21e7226003d05bf8d0d94cbb "pdflatex"
   "tau_graph.pdf" 1730833902 14353 1d790d9f888ff5452f081936facb996c ""
   (generated)
   "statistic.aux"
