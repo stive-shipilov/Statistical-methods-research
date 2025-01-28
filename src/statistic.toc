@@ -1,0 +1,21 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение и постановка задачи}{2}{section.1}%
+\contentsline {section}{\numberline {2}Различные подходы к учёту погрешностей}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Экспериментальные данные}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Расчёт коэфициента наклона и его погрешности методом наименьших квадратов}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Расчёт коэфициента наклона и его погрешности методом $\chi ^2$}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Расчёт коэфициента наклона методом двумерной взвешенной регрессии}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Метод Монте-Карло}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Метод Бутсрэпа}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Результаты}{8}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Влияние статистического метода на значение искомой величины}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Экспермиентальные данные}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Метод МНК}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Одномерный метод $\chi ^2$}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Расчёт коэфициента наклона методом двумерной взвешенной регрессии}{11}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Метод Монте-Карло}{12}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Влияние на статстического метода на малые погешности}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Экспериментальные данные}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Сравнение статистических методов}{15}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Результаты}{15}{section.5}%
+\contentsfinish 
